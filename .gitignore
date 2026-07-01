@@ -16,3 +16,9 @@
 Thumbs.db
 .idea/
 .vscode/
+.env
+cover.jpg
+test.md
+publisher
+md2wechat-publish
+*.log

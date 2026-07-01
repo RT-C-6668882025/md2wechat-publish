@@ -1,0 +1,18 @@
+# Build outputs
+*.exe
+*.test
+*.out
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary editor copies
+*.go.*
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

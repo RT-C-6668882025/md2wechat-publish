@@ -1,0 +1,4 @@
+interface:
+  display_name: "md2wechat Cloud Publish"
+  short_description: "Publish prepared Markdown to WeChat from Linux servers"
+  default_prompt: "Use $md2wechat-cloud-publish to validate and publish this prepared Markdown article as a WeChat draft."
